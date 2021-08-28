@@ -37,3 +37,60 @@ Sample output:
 
 NO
  
+# Meet Nowruz
+On the occasion of Nowruz, three old friends want to meet. Azarmehr, Azargoon and Mehr aein plan to meet at one point. The house of these three is located on the right line (axis x) of the house of Azarmehr is located at the x1 point, the house of Azargon is located at the point x2, and mehraein house is located at the x3 point. Overall, they want to travel the lowest distance. With x1 x2 x3 holding, calculate the lowest distance these three have to go through in total to meet at one point. Please print it without decimal point if the answer is integer, for example, in the example below, if you print 6.0 is incorrect.
+Note that the distance is desired, not where they are supposed to meet.
+Sample input:
+6 9 10
+Sample output:
+4
+# Small Letters Capital Letters
+Ariamanesh (darius's son's name) is very upset that on the Internet, people use capital letters and small letters when they write a word. That's why he decided to write a browser that would write words with small letters and capital letters in a new way, so that if a word had more capital letters than the number of small letters, it would write the whole word in capital letters, otherwise it would write the whole word in small letters.
+
+
+Sample input:
+
+hasTAM
+Sample output:
+
+hastam
+Is Palindrome?
+Zargiso, who has just become familiar with programming, wants to write a program that determines whether a word is a palindrome. It's called a palindrome, whether you read it from the left or from the right. Madam, for example, is a palindrome, but tehran is not a palindrome. Now you have to help Zargiso write this program.
+Please note that the small or large letters do not matter as we said Madam is a palindrome as maDAM is a palindrome.
+
+Input sample:
+
+madam
+Output sample:
+
+palindrome
+ 
+
+Input sample:
+
+tehran
+Output sample:
+
+not palindrome
+ # Substring
+ Jahangir works at a computer company. Jahangir is going to write a program that determines whether AB and BA can be found in another discipline without overlap. Ab and BA don't matter either. I mean, if it's ABBA input, there's a YES answer. If there's a BAAB entry, there's still a YES answer. But if it's an ABA entry, there's a NO answer, or if it's an ABHA entry, there's a NO answer. Can you help Jahangir write this program?
+
+Please print YES and NO exactly the same way with capital letters in the output.
+
+
+
+
+
+Officials from the Country's Kabeddi Federation are preparing teams to participate in the World Kabeddi Championships. According to the rules of the World Liver Championships, only five world liver competitions can be participated. The president of the federation has gathered all the athletes in this field, each player has participated in the world championships a number of times to date. Liver teams consist of exactly 3 people. Now, Mr. Shayegan Ariamehr, the president of the federation, wants to form teams that, if selected by each of those teams, can
+
+participate in the world championships for at least 3 years (i.e. each member of a team has participated in the world championships at most twice) the first line of entry includes the number n, i.e. the number of Kabeddi players. The next line of input consists of n numbers separated by space, indicating that each player has participated in the World Championships several times. Print a number at the output that represents the maximum teams formed under the said conditions.
+
+
+Sample input:
+
+6
+5 0 4 2 1 0
+Sample output:
+
+1
+At the given sample entry, players who have played 5 and 4 games cannot be in the group according to the question, so only 4 players who have played 0, 2, 1 and 0 can be in groups. With 4 persons, only one group of 3 persons can be formed. Note that you don't have to count the number of modes (permutations).
