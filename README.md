@@ -16,3 +16,24 @@ Saman's just learned the strings. There's a fairly simple question ahead of him 
 
 3. Write all the remaining silent letters in small numbers.
 (Vowels are aeiou)
+# Summing Up Numbers
+Somayeh is studying in second grade and is just learning to collect numbers. The class teacher wrote some numbers on the board, and the students had to count the sum of the numbers. To make it easier, the numbers that need to be summed up are just one and two and three. But that's not enough, and students can only do the plural when the numbers are arranged in a non-descending order (i.e. first one, then twos and then threes) you have to read the phrase that the teacher wrote at the foot of the board as input and generate the phrase that was explained in the output so that Somayeh and the other students can count it.
+#  Standardization of Names
+Mehdi is sending the final list of the names of the participants in the closing ceremony of fajr film for the executive committee so that they can print the entry cards. But there's something wrong. The participants didn't write their names as standard when they registered. Standard means exactly the first letter of the uppercase letter and the rest is lowercase. Write a program that reads 10 names from the input and prints them standardized in the output.
+# Sarah Greets
+Sarah has just learned to type and log on to the Internet. Once he got online, he decided to go into a chatroom and say hello to everyone. Sarah put a word into the chatroom. If you can remove some of the letters of the word that Sarah has entered and at the end the word hello remains, that is, Sarah can say hello otherwise no.
+It is guaranteed that the entry consists only of lowercase English letters.
+Sample input:
+
+ahhellllloou
+Sample output:
+
+YES
+ 
+Sample input:
+
+hlelo
+Sample output:
+
+NO
+ 
