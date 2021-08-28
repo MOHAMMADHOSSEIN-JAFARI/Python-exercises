@@ -8,8 +8,11 @@ Write a program that reads an input number and prints the next first multiple of
 In this program, read a positive number from the input and determine whether this number is prime or not.
 If it was a prime number, print prime in the output, and if it was not a prime number, print not prime in the output. Please make sure the output is exactly as stated. 
 # Working with strings
-Saman is a novice with strings. There is a relatively simple question in front of you to start working with the strings, but it needs your help to be able to do it. Saman must write a program that reads a string from the input and applies the following changes to it.
-1 - Delete all vowels.
-2 - Print a dot before each silent letter.
-3. Write all the remaining silent letters in lower case.
+Saman's just learned the strings. There's a fairly simple question ahead of him to get started with the strings, but he needs your help to do it. Saman should write the program to read a string of words from the entrance and make the following changes to it.
+
+1- Erase all vowels.
+
+2. Print a dot before each silent letter.
+
+3. Write all the remaining silent letters in small numbers.
 (Vowels are aeiou)
