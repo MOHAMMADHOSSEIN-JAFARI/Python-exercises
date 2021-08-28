@@ -7,3 +7,12 @@ Write a program that reads an input number and prints the next first multiple of
 # Finding Prime Number
 In this program, read a positive number from the input and determine whether this number is prime or not.
 If it was a prime number, print prime in the output, and if it was not a prime number, print not prime in the output. Please make sure the output is exactly as stated. 
+# Working with strings
+Saman is a novice with strings. There is a relatively simple question in front of you to start working with the strings, but it needs your help to be able to do it. Saman must write a program that reads a string from the input and applies the following changes to it.
+1 - Delete all vowels.
+
+2 - Print a dot before each silent letter.
+
+3. Write all the remaining silent letters in lower case.
+
+(Vowels are aeiou)
