@@ -94,3 +94,75 @@ Sample output:
 
 1
 At the given sample entry, players who have played 5 and 4 games cannot be in the group according to the question, so only 4 players who have played 0, 2, 1 and 0 can be in groups. With 4 persons, only one group of 3 persons can be formed. Note that you don't have to count the number of modes (permutations).
+# Laptop Prices
+One day, Sindokht and Irsa were discussing the price of laptops and their quality. Sindokht guesses that the more expensive a laptop is, the better the quality. But Irsa claims to be able to find two laptops that have a lower price than the latter, but the quality is higher than the latter and can reject Sindokht's guess. Now you have to help Irsa review her claim by writing a program.
+You'll be given n laptop specifications.
+The first line of input contains the number "n" which indicates the number of laptops. Each of the next n lines contains two numbers, which represents the first number of the laptop price, and the second number is the quality of that laptop. If you can find two laptops that meet the requirements stated by IRSA print happy irsa otherwise print poor irsa (please note that the letters are small all letters are written in small form.)
+Sample input:
+
+2
+1 10
+7 3
+Sample output:
+
+happy irsa
+ 
+
+In the first laptop sample entry has a price of 1 and the quality of 10 (the bigger the quality is) the second laptop is priced 7 and the quality 3. Well Irsa has managed to find two laptops that although the second price is higher than the first price but the second quality is less than the first quality.
+
+ 
+
+Sample input:
+
+4
+1 5
+7 9
+5 6
+20 30
+Sample output:
+
+poor irsa
+# Vote Counting System
+Mr. Jubin Artabaz is the president of the United Nations and is going to cast a vote on the selection of the Board of Directors! Domhar Jamshidi, who is in charge of the UNITED Nations computer, has written a program that counts how many ra'i each country has earned. You're going to help Dodmehr count the votes by writing a program.
+The first line of entry contains the number "n", which displays the total number of votes.
+Each of the next n lines contains the name of a country. The names of countries are made of lowercase English.
+Print a line in output m, which includes the number of votes in each
+country. Type the names of countries in alphabetical order in output. For more information, see sample input and sample output.
+
+
+Note: The online arbitration system uses Python 3.4, in this version dictionaries do not remember the order of data entry to themselves and may not achieve the desired result if they are sorted, use OrderedDict to fix this problem instead of dict, this data structure can be imported from the collections library in the app.
+
+Sample input:
+
+5
+sara
+hamid
+ali
+sara
+sara
+Sample output:
+
+ali 1
+hamid 1
+sara 3
+# Online Translator
+Artadecht is preparing an online translator for his university dissertation. The online translator that Artadekhet is preparing has a dictionary, and at the end of the day, this translator has to translate a sentence.
+In the first line of input, there is a number "n", which represents the number of dictionary
+words. Each of the next "n" lines consists of two words, indicating that the second word means the first word. The next line contains a sentence. A sentence contains a few words separated by space. Now you need to help Artadecht and write an interpreter who reads the dictionary and the corresponding sentence from the entrance and translates the sentence. In the translation process, if there is no word in the dictionary, print the word in the output yourself. For more information, pay attention to the sample input and sample output.
+
+
+Note: The online arbitration system uses Python 3.4, in this version dictionaries do not remember the order of data entry to themselves and may not achieve the desired result if they are sorted, use OrderedDict to fix this problem instead of dict, this data structure can be imported from the collections library in the app.
+
+Sample input:
+
+5
+hello salam
+goodbye khodafez
+say goftan
+we ma
+you shoma
+we say goodbye to you tonight
+Sample output:
+
+ma goftan khodafez to shoma tonight
+ 
