@@ -166,3 +166,25 @@ Sample output:
 
 ma goftan khodafez to shoma tonight
  
+# The Second Root
+Write a program that reads a few positive numbers from the input and prints its second root up to 4 decimal places.
+The first line shows the input of the number "n", which is the number of numbers you need to calculate the second
+root. Each of the next n lines contains a positive number. For more information, pay attention to input and output samples. Tips: In this exercise, you should use the math library and the sqrt function of that library.
+
+Please note that it should not be rounded in any way. Print exactly 4 digits after decimal places.
+
+ 
+
+Sample Input
+
+4
+1
+2
+19
+100
+Sample Output
+
+1.0000
+1.4142
+4.3588
+10.0000
