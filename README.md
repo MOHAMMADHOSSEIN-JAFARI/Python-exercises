@@ -10,9 +10,6 @@ If it was a prime number, print prime in the output, and if it was not a prime n
 # Working with strings
 Saman is a novice with strings. There is a relatively simple question in front of you to start working with the strings, but it needs your help to be able to do it. Saman must write a program that reads a string from the input and applies the following changes to it.
 1 - Delete all vowels.
-
 2 - Print a dot before each silent letter.
-
 3. Write all the remaining silent letters in lower case.
-
 (Vowels are aeiou)
